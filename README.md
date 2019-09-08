@@ -1,4 +1,4 @@
-#The DecentRandom Project Whitepaper
+# The DecentRandom Project Whitepaper
 
 ## Requirements
 
